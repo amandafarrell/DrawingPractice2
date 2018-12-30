@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Draw2</string>
+    <string name="change_color">Change Color</string>
+    <string name="save">Save</string>
+    <string name="line_width">Line Width</string>
+    <string name="erase">Erase</string>
+    <string name="clear_all">Clear All</string>
+    <string name="width_button_label">Set Width</string>
+    <string name="label_alpha">Alpha</string>
+    <string name="label_red">Red</string>
+    <string name="label_green">Green</string>
+    <string name="label_blue">Blue</string>
+    <string name="button_label_set_color">Set Color</string>
+</resources>
